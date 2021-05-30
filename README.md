@@ -1,7 +1,7 @@
 ### 👋 Hello there! I'm Sahil
 
 - 👨‍💻 Aspiring Data Scientist
-- 👨‍🎓 CS sophomore at [Govt. Model Engineering College, Kochi](https://www.mec.ac.in/)
+- 👨‍🎓 CS sophomore at [Govt. Model Engineering College, Thrikkakara, Kochi](https://www.mec.ac.in/)
 - 👀 I’m interested in Data analytics and visualisation
 - 🌱 I’m currently learning Machine Learning using Scikit-Learn
 - 💞️ I’m looking to collaborate on ...
