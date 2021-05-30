@@ -1,10 +1,11 @@
 ### 👋 Hello there! I'm Sahil
 
-- 👋 Hi, I’m @SahilSait
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👨‍💻 Aspiring Data Scientist
+- 👨‍🎓 College sophomore
+- 👀 I’m interested in Data analytics and visualisation
+- 🌱 I’m currently learning Machine Learning using Scikit-Learn
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/sahilsait/) [Twitter](https://twitter.com/sahilsaitn)
 
 <!---
 SahilSait/SahilSait is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
