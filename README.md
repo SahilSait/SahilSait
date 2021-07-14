@@ -1,9 +1,9 @@
 ### 👋 Hello there! I'm Sahil
 
-- 👨‍💻 Aspiring Data Scientist
+- 👨‍💻 Full Stack Engineer
 - 👨‍🎓 CS sophomore at [Govt. Model Engineering College,Thrikkakara](https://www.mec.ac.in/)
-- 👀 I’m interested in Data analytics and visualisation
-- 🌱 I’m currently learning Machine Learning using Scikit-Learn
+- 👀 I’m interested in MERN stack and Django
+- 🌱 I’m currently learning iOS development using Swift
 - 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn)
 
 <!---
