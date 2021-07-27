@@ -2,7 +2,7 @@
 
 - 👨‍💻 Full Stack Engineer
 - 👨‍🎓 CS sophomore at [Govt. Model Engineering College,Thrikkakara](https://www.mec.ac.in/)
-- 👀 I’m interested in MERN stack and Django
+<!-- - 👀 I’m interested in MERN stack and Django -->
 - 🌱 I’m currently learning iOS development using Swift
 - 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn)
 
