@@ -1,4 +1,4 @@
-### 👋 Hello there! I'm Sahil
+### 👋  Hello there!
 
 - 👨‍🎓 CS undergrad at [Govt. Model Engineering College,Thrikkakara](https://www.mec.ac.in/)
 - 🌱 Currently learning iOS development
