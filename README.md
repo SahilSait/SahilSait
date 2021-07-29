@@ -1,7 +1,7 @@
 ### 👋 Hello there! I'm Sahil
 
 - 👨‍🎓 CS undergrad at [Govt. Model Engineering College,Thrikkakara](https://www.mec.ac.in/)
-- 🌱 I’m currently learning iOS development using Swift
+- 🌱 Currently learning iOS development
 - 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) [LinkedIn](https://www.linkedin.com/in/sahilsait/)
 
 <!---
