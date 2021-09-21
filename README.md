@@ -1,7 +1,7 @@
 ### 👋  Hello there!
 
 - 👨‍🎓 CS undergrad at [Govt.Model Engineering College, Thrikkakara](https://www.mec.ac.in/)
-- 🌱 Currently learning iOS development
+- 🌱 Currently picking up iOS development
 - 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) [LinkedIn](https://www.linkedin.com/in/sahilsait/)
 
 
