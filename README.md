@@ -1,8 +1,8 @@
 ### 👋  Hello there!
 
-- 👨‍🎓 CS undergrad at [Govt.Model Engineering College,Thrikkakara](https://www.mec.ac.in/)
-- 🌱 Currently picking up iOS development
-- 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) [LinkedIn](https://www.linkedin.com/in/sahilsait/)
+- 👨‍🎓 CS undergrad
+- 🚀 Currently exploring web3 & smart contracts
+- 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) or [LinkedIn](https://www.linkedin.com/in/sahilsait/)
 
 
 <!-- - 👨‍💻 Full Stack Engineer -->
