@@ -2,7 +2,7 @@
 
 - 👨‍🎓 CS undergrad
 - 🚀 Currently exploring web3 & smart contracts
-- 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) or [LinkedIn](https://www.linkedin.com/in/sahilsait/)
+- 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) [LinkedIn](https://www.linkedin.com/in/sahilsait/) [Email](mailto:sahilsaitofficial@gmail.com)
 
 
 <!-- - 👨‍💻 Full Stack Engineer -->
