@@ -1,6 +1,6 @@
 ### 👋  Hello there!
 
-- 👨‍🎓 CS undergrad @ [MEC, Thrikkakara](http://www.modelengineering.college/)
+- 👨‍🎓 CS undergrad @ [MEC Thrikkakara](http://www.modelengineering.college/)
 - 🚀 Currently exploring web3 & smart contracts
 - 📫 How to reach me: [Twitter](https://twitter.com/sahilsaitn) [LinkedIn](https://www.linkedin.com/in/sahilsait/) [Email](mailto:sahilsaitofficial@gmail.com)
 
