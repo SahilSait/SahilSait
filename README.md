@@ -2,7 +2,6 @@
 
 - 👨‍🎓 CS undergrad @ [MEC Thrikkakara](http://www.modelengineering.college/)
 - 🚀 Currently exploring web3 & smart contracts
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/sahilsait/)
 
 
 <!-- - 👨‍💻 Full Stack Engineer -->
