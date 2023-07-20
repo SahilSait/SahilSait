@@ -1,6 +1,6 @@
 ### hey, hi, hello!
 
-- 👨‍🎓 CS undergrad @ [MEC Thrikkakara](http://www.modelengineering.college/)
+CS undergrad @ [MEC Thrikkakara](http://www.modelengineering.college/)
 - 🚀 Currently exploring web3 & smart contracts
 
 
