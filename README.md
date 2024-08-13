@@ -1,5 +1,3 @@
-### hey, hi, hello!
+### God's chosen engineer (non-religious)
 
-- building and breaking stuff as a new SDE
-- currently learning ios dev
-- open to collaborating on AI projects
+- diving into ai & security.
