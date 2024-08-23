@@ -1,3 +1,3 @@
-### God's chosen engineer (non-religious)
+### God's chosen engineer
 
 - diving into ai & security.
