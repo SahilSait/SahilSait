@@ -1,5 +1,3 @@
 ### God's chosen engineer
 
-- reading & learning.
-- diving into ai/ml.
-  
+- it's time to build.
