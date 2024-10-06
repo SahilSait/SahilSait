@@ -1,3 +1,3 @@
-### God's chosen engineer
+### enough procrastination, it's time to build.
 
-- it's time to build.
+- 
