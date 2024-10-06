@@ -1,3 +1,1 @@
-### enough procrastination, it's time to build.
-
-- 
+### Enough procrastination, it's time to build.
